@@ -17,21 +17,21 @@
 
 <div align="center">
 
-<a href="https://github.com/PedroNunes-Dev67?tab=followers">
-<img src="https://img.shields.io/github/followers/PedroNunes-Dev67?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
+<a href="https://github.com/PedroNuness-Dev?tab=followers">
+<img src="https://img.shields.io/github/followers/PedroNuness-Dev?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117"/>
 </a>
 
-<a href="https://github.com/PedroNunes-Dev67?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNunes-Dev67&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=00B4D8&labelColor=0D1117"/>
+<a href="https://github.com/PedroNuness-Dev?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroNuness-Dev&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=00B4D8&labelColor=0D1117"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev67&style=for-the-badge&color=00B4D8&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=PedroNuness-Dev&style=for-the-badge&color=00B4D8&labelColor=0D1117"/>
 
 </div>
 
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroNunes-Dev67&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
+  <img src="https://streak-stats.demolab.com?user=PedroNuness-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
 </div>
 
 <br>
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroNunes-Dev67&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroNuness-Dev&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -260,7 +260,7 @@
 
 # <img src="https://cdn.simpleicons.org/git/00B4D8" width="24"/> Contribution Graph
 
-<img src="https://raw.githubusercontent.com/PedroNunes-Dev67/PedroNunes-Dev67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PedroNuness-Dev/PedroNuness-Dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
