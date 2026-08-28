@@ -86,13 +86,25 @@
 
 <td align="center" width="190px">
 
+<img src="https://skillicons.dev/icons?i=typescript" width="65px"/>
+
+### TypeScript
+
+`Static Typing`  
+`Interfaces & Generics`  
+`Scalable Codebases`
+
+</td>
+
+<td align="center" width="190px">
+
 <img src="https://skillicons.dev/icons?i=angular" width="65px"/>
 
 ### Angular
 
-`TypeScript`  
 `SPA Development`  
-`Component Design`
+`Component Design`  
+`RxJS`
 
 </td>
 
@@ -209,18 +221,6 @@
 `Orchestration`  
 `Microservices`  
 `Cloud Native`
-
-</td>
-
-<td align="center" width="190px">
-
-<img src="https://skillicons.dev/icons?i=go" width="65px"/>
-
-### Go
-
-`Performance`  
-`Concurrency`  
-`Backend Services`
 
 </td>
 
