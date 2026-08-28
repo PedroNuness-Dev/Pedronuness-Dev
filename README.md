@@ -30,11 +30,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroNuness-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
-</div>
-
-<br>
 
 <div align="center">
   
@@ -42,17 +37,11 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroNuness-Dev&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+<img src="https://raw.githubusercontent.com/PedroNuness-Dev/PedroNuness-Dev/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
