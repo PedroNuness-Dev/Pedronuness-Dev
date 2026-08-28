@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: PedroNunes-Dev67
-          outputs: |
+          github_user_name: Pedronuness-Dev
+          outputs: 
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
