@@ -41,6 +41,10 @@
 
 <div align="center">
 
+# <img src="https://cdn.simpleicons.org/githubactions/00B4D8" width="24"/> GitHub Metrics
+
+<br>
+
 <img src="https://raw.githubusercontent.com/PedroNuness-Dev/PedroNuness-Dev/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
