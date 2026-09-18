@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Pedro%20Nunes&fontAlign=50&fontAlignY=38&color=0:0D1117,100:00B4D8&fontColor=FFFFFF&fontSize=46&desc=Full%20Stack%20Developer%20•%20Java%20%7C%20Python%20%7C%20Angular&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Pedro%20Nunes&fontAlign=50&fontAlignY=38&color=0:0D1117,100:00B4D8&fontColor=FFFFFF&fontSize=46&desc=Full%20Stack%20Developer%20•%20Java%20%7C%20Angular%20%7C%20TypeScript&descAlignY=58"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+full+stack+solutions+end-to-end;Java+%2B+Python+%2B+Angular+%2B+Docker;Always+learning%2C+always+shipping"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+full+stack+solutions+end-to-end;Java+%2B+Angular+%2B+TypeScript+%2B+Docker;Always+learning%2C+always+shipping"/>
 
 </div>
 
@@ -74,13 +74,13 @@
 
 <td align="center" width="190px">
 
-<img src="https://skillicons.dev/icons?i=python" width="65px"/>
+<img src="https://skillicons.dev/icons?i=angular" width="65px"/>
 
-### Python
+### Angular
 
-`Scripting`  
-`Automation`  
-`Data Processing`
+`SPA Development`  
+`Component Design`  
+`RxJS`
 
 </td>
 
@@ -98,13 +98,13 @@
 
 <td align="center" width="190px">
 
-<img src="https://skillicons.dev/icons?i=angular" width="65px"/>
+<img src="https://skillicons.dev/icons?i=python" width="65px"/>
 
-### Angular
+### Python
 
-`SPA Development`  
-`Component Design`  
-`RxJS`
+`Scripting`  
+`Automation`  
+`Data Processing`
 
 </td>
 
